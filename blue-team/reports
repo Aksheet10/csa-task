@@ -1,0 +1,10 @@
+On 15 March 2024, the web server received three kinds of attack from 9 different IP addresses: brute-force logins, directory traversal, and SQL injection.
+Four IPs tried to guess passwords (30 failed logins in total) against the login pages (/login, /admin/login, /api/login, /wp-login.php). Four IPs tried to read files outside the web folder (13 attempts) through the file and download features (/download, /view, /img, /files, /static). Three IPs injected database commands (10 attempts) into the search, product, and item lookups featuer (/search, /products, /api/items) and the login form. 141.98.10.33 used all three attack types, probably an automated attack and not manual.
+
+Overall severity is high: the log shows 203.0.113.42 logging in successfully right after 12 failures, which suggests an account may be compromised, and one traversal request (/view?page=../../../../etc/hosts) returned a 200 response, which means a system file may have been exposed and they were able to read tht file.
+
+3. Recommended Actions
+
+Brute force: Lock an account or block an IP for a while after a few failed logins, and reset the password of any account that was logged into after repeated failures.
+Directory traversal: Only allow users to open files from a fixed approved list or folder, and reject any file name that contains ../.
+SQL injection: Never put user input directly into database queries. Use parameterized queries so input is treated only as data, not as a command.

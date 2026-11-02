@@ -1,0 +1,65 @@
+1. Brute Force Attack
+Attacker IP: 203.0.113.42
+First Attempt: 2024-03-15 08:45:00
+Last Attempt: 2024-03-15 08:45:33
+Total Attempts: 12
+
+Attacker IP: 100.64.8.9
+First Attempt: 2024-03-15 10:40:00	
+Last Attempt: 2024-03-15 11:40:00
+Total Attempts: 7
+
+Attacker IP: 141.98.10.33
+First Attempt: 2024-03-15 12:00:00
+Last Attempt: 2024-03-15 12:00:20
+Total Attempts: 6 
+
+Attacker IP: 198.51.100.77
+First Attempt: 2024-03-15 10:00:00
+Last Attempt: 2024-03-15 10:01:20
+Total Attempts: 5
+
+
+---
+
+
+2. SQL Injection
+Attacker IP: 51.77.72.9
+First Attempt: 2024-03-15 09:10:05
+Last Attempt: 2024-03-15 09:15:05
+Total Attempts: 6 
+
+Attacker IP: 185.220.101.5
+First Attempt: 2024-03-15 11:20:00
+Last Attempt: 2024-03-15 11:21:00
+Total Attempts: 2 
+
+Attacker IP: 141.98.10.33
+First Attempt: 2024-03-15 12:02:00
+Last Attempt: 2024-03-15 12:04:00
+Total Attempts: 2
+
+---
+
+3. Directory Traversal
+Attacker IP:88.198.50.20
+First Attempt: 2024-03-15 09:40:00
+Last Attempt: 2024-03-15 09:40:42
+Total Attempts: 7
+
+
+Attacker IP: 45.33.32.156
+First Attempt: 2024-03-15 11:30:00
+Last Attempt: 2024-03-15 11:32:00
+Total Attempts: 3
+
+
+Attacker IP: 77.88.55.60
+First Attempt: 2024-03-15 09:35:00
+Last Attempt: 2024-03-15 09:35:00
+Total Attempts: 1
+
+Attacker IP: 141.98.10.33
+First Attempt: 2024-03-15 12:03:00
+Last Attempt: 2024-03-15 12:03:00
+Total Attempts: 1

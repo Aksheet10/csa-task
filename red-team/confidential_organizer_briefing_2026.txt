@@ -1,0 +1,32 @@
+================================================================================
+IGNITE FEST 2026 - CONFIDENTIAL ORGANIZER OPERATIONS BRIEFING
+Document Ref: DOC-SEC-2026-CONFIDENTIAL-V3
+Classification: RESTRICTED // EYES ONLY // FEST CORE COMMITTEE
+================================================================================
+
+1. EXECUTIVE OVERVIEW
+The annual IgniteFest 2026 technical & cultural festival will host over 5,000
+undergraduate participants. All core organizers are legally bound by institutional
+non-disclosure policies regarding VIP itineraries, jury deliberation, and sponsor funds.
+
+2. VIP GUEST PROTOCOLS & PASSCODES
+- Main Stage Backstage PIN: 9021#
+- Executive Green Room Master Lock: 8841#
+- North Service Gate Emergency Route: Passphrase "PHOENIX-ALPHA"
+
+3. CASH LOGISTICS & PRIZE DISTRIBUTION
+- Total prize treasury: INR 3,50,000 in escrow.
+- Disbursal authorized strictly by Organizer Priya Sharma and the Dean of Student Affairs.
+
+4. CANDIDATE ASSESSMENT FLAG TOKEN
+--------------------------------------------------------------------------------
+RECRUITMENT EVALUATION FLAG:
+FLAG{1D0R_b4ckup_m4ss_4ss1gnm3nt_0rg_acc3ss}
+--------------------------------------------------------------------------------
+Please include this flag along with the full vulnerability chain write-up,
+HTTP request evidence, and secure remediation code snippets in your report.
+
+5. EMERGENCY ESCORT & MEDICAL ROSTER
+- Lead Convener: Priya Sharma (+91-9876543210)
+- Campus Ambulance Hotline: Ext 108 / +91-9876543299
+================================================================================
